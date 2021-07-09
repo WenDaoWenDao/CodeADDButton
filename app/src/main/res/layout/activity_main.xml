@@ -20,6 +20,7 @@
             android:id="@+id/CL_SCROLLVIEW"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="#469C1D1D"
             android:scrollbarAlwaysDrawHorizontalTrack="true"
             android:scrollbars="vertical">
 
